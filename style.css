@@ -1,0 +1,12 @@
+section {
+    color: violet;
+}
+
+button {
+    color: inherit;
+    /* 텍스트 색상 상속 */
+    font-family: inherit;
+    /* 폰트 스타일 상속 */
+    background-color: inherit;
+    /* 배경색 상속 */
+}
